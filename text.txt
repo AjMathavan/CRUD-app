@@ -1,0 +1,10 @@
+Get:        http://localhost:9001/aliens     //all
+
+
+Get:       http://localhost:9001/aliens/<id>
+
+
+Post:      http://localhost:9001/aliens
+
+
+Patch:        http://localhost:9001/aliens/<id>
